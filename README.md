@@ -58,8 +58,7 @@ During the curriculum you will hear about different libraries or technologies th
 ### 3.2 When am I supposed to work on these projects?
 We suggest you start thinking on these projects as soon as possible, but wait until the start of the Browsers module to start coding. You will have between 5-6 months to work on them, so we expect some great looking applications! Look at the curriculum planning for reference:
 
-
-GRAPHICS
+![Curriculum](img/curriculum.jpeg)
 
 ### 3.3 Getting feedback from mentors:
 You can join a special Slack Channel named #hyf_projects where several mentors will be available to help you plan, build and improve your projects. However, you will have to be proactive in finding a mentor in this channel, and coordinating the collaboration moving forward. This will be 100% your responsibility. Additionally, you will be able to join Rob’s tech hour. A 1-2 hour weekly session where Rob will answer your questions and brainstorm together with you about your projects.
