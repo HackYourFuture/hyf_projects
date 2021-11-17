@@ -1,5 +1,7 @@
 # Building your portfolio while proving to be a Proactive Developer
 
+![Banner](img/portfoliorepo.jpg)
+
 Being proactive is a crucial trait for any developer (and particularly important for a remote and/or junior developer). The last thing a company or a team wants is a developer who is always waiting for someone else to give them tasks or tell them what to do. Being proactive means thinking about the future and focusing on the things you can control instead of all those you cannot.
 
 While there are many things you cannot control while building your career in Tech (i.e the condition of the job market, the willingness of companies to hire junior devs, the years of experience required by your dream job, etc) there are many other things that you can control. Becoming a proactive developer is one of them.
