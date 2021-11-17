@@ -1,4 +1,4 @@
-# Building your portfolio while proving to be a Proactive Developer
+# Building your portfolio and proving you are a proactive developer
 
 ![Banner](img/portfoliorepo.jpg)
 
