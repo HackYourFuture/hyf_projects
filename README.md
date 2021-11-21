@@ -36,8 +36,6 @@ Working on projects next to your study will help you to better understand concep
 
 Companies expect entry level job seekers to not only write clean code and communicate well but also to have some experience and a portfolio of projects. For this reason is that from now on, every student will have to show a minimum of 2 great projects they’ve been working on next to their studies in order to graduate from our program.
 
-But before we get into the specifics of the projects, let’s explore what are the characteristics of a proactive developer and how building projects next to your study will help you become one.
-
 ## 3. Working on projects
 
 ### 3.1 Project Guidelines and examples
