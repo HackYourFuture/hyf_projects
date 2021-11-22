@@ -90,7 +90,7 @@ No. A tutorial/code along on your CV does not fall in line with the Proactive de
 Look for ideas online. Discuss ideas with mentors and colleagues...There are plenty of options! As a proactive developer you should be able to come up with some great ideas by yourself or brainstorm alone or with others until you find a project that gets you excited! 
 
 #### - How can I get support if I'm stuck on my project?
-On Slack you can find a channel named #HackerProjects. In this channel, we have several mentors who are able to help you out. Keep in mind that mentors have other jobs and are usually busy, so give enough time to get the feedback/input you need. Additionally, every week you can join Rob’s Tech Hour.
+On Slack you can find a channel named #Projects. In this channel, we have several mentors who are able to help you out. Keep in mind that mentors have other jobs and are usually busy, so give enough time to get the feedback/input you need. Additionally, every week you can join Rob’s Tech Hour.
 
 #### - When am I supposed to work on these projects?
 We suggest you start thinking on these projects as soon as possible, but wait until the end of the Browsers module to start coding. You will have between 5-6 months to work on them, so we expect some great looking applications!
