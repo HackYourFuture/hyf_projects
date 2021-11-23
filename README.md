@@ -61,7 +61,23 @@ We suggest you start thinking on these projects as soon as possible, but wait un
 ![Curriculum](img/curriculum.jpeg)
 
 ### 3.3 Getting feedback from mentors:
-You can join a special Slack Channel named #projects where several mentors will be available to help you plan, build and improve your projects. However, you will have to be proactive in finding a mentor in this channel, and coordinating the collaboration moving forward. This will be 100% your responsibility. Additionally, you will be able to join Rob’s tech hour. A 1-2 hour weekly session where Rob will answer your questions and brainstorm together with you about your projects.
+You can join a special Slack Channel named #projects where several mentors will be available to help you whenever you need some assistance in planning, building and improving your projects. You will have to be proactive in finding help from a mentor in this channel by sending a message. This will be 100% your responsibility. Remember to make sure that your question is complete and gives an idea of what you need! For example, a question like:
+
+> My app is broken, what should I do?
+
+will not get much of a response as it is very unclear what needs to happen. But if you add information for the mentor that allows them to have a quick look, they will be much more interested to help:
+
+> I was adding a React frontend to my app and whenever I run the app I get the following error:
+```
+build.js:196 Uncaught TypeError: React.render is not a function
+    at Object.2.react (build.js:196)
+    at s (build.js:1)
+    at e (build.js:1)
+    at build.js:1
+```
+> Here is the repo with the error: https://link.to/repo
+
+Additionally, you will be able to join Rob’s tech hour. A 1-2 hour weekly session where Rob will answer your questions and brainstorm together with you about your projects.
 
 ### 3.4 The final graduation interview:
 The HYF team will do a final revision of your apps at the time of the graduation interview. We might ask you questions about what you’ve built and what you’ve learnt. For this, be sure your projects are deployed and added to your CV before the graduation interview. Failing to do this will be an impediment to graduate you and therefore, the program will be extended for you.
