@@ -102,8 +102,18 @@ No they do not. The guided projects in the curriculum (HackYourWeather, HackYour
 #### - Can I follow a tutorial for a project?
 No. A tutorial/code along on your CV does not fall in line with the Proactive developer. The project should be built from scratch. Also, when following a video tutorial or code-along, you might overestimate your skills. The real learnings come when struggling building things by yourself and for that reason, following tutorials is not allowed.
 
-#### - Where can I get some ideas for projects?
-Look for ideas online. Discuss ideas with mentors and colleagues...There are plenty of options! As a proactive developer you should be able to come up with some great ideas by yourself or brainstorm alone or with others until you find a project that gets you excited! 
+#### - Where can I get ideas for projects?
+- What do you know more about, or think more about, or do more of than your colleagues? Topics, apps, types of websites, tools... is there an interest you share or would enjoy to discuss with your classmates? They can help you _build_ on your interest, literally!
+- Find a friend or family member or alum who can hold you to account. Is there a topic they are interested in, where they also want to see what you build? For example, maybe they run a business and might like to have a website? Or you want show someone that you've been thinking about them: dedicate a web-project to them, as a digital gift! 
+- Is there a digital tool that might help you in your own life. Is it silly or exaggerated? Even better!
+
+Discuss ideas with mentors and colleagues...There are plenty of options! Become a proactive developer by brainstorming or developing ideas with others until you find a project that gets you excited! 
+
+Steps in brainstorming and refining ideas can include: 
+rapid-fire sticky-notes, find themes, elaborate, write an elevator pitch. Research, introspect, discuss. 
+Once you have a topic, use a similar process to list functionality that you could build, by writing it down, like the author did about the pages of [petplaats](https://github.com/nizamimursudlu/petplaats). 
+
+Set early deadlines, so you can stop talking and continue coding. Mock interviews usually take place a few weeks after you start your personal projects. Can you give the interviewers the elevator pitch or show them one of the functionalities? Then you get to practice showing off how you put learning into action, and how you solve problems.
 
 #### - How can I get support if I'm stuck on my project?
 On Slack you can find a channel named #projects. In this channel, we have several mentors who are able to help you out. Keep in mind that mentors have other jobs and are usually busy, so give enough time to get the feedback/input you need. Additionally, every week you can join Rob’s Tech Hour.
