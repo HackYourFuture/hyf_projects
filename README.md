@@ -42,14 +42,18 @@ Companies expect entry level job seekers to not only write clean code and commun
 As mentioned before, every HackYourFuture student will have to show a minimum of 2 great projects they’ve been working on next to their studies in order to graduate. These projects should reflect your skills at the end of the program, and include enough features and refinement to show the HYF team and future employers what you can build by yourself.
 
 ### PROJECT 1: A full stack application
-This would be a project to which you can keep adding to as you learn new things in the curriculum. Starting with a vanilla JS frontend with fake data, then building a backend without a database in Node, then adding a database in Databases and finally converting the frontend to a React frontend.
+This would be a project to which you can keep adding to as you learn new things in the curriculum. Starting with a vanilla JS frontend with fake data, then building a backend without a database in Node, then adding a database in Databases and finally converting the frontend to a React frontend. It is tempting to wait until you know everything before starting this project but we think it is a good idea to have a running project that you can keep adding to. That way you not only have a nice and practical way of using the concepts you learn throughout the curriculum but you also get a feeling on how a project evolves over time. In the end you will rewrite a lot of the code but that is totally fine, ask any developer and they will say that they write at least 5x as many lines of code than get put into their final Pull Request.
 
 #### EXAMPLES:
 - PetPlaats | MERN application: [LINK](https://github.com/nizamimursudlu/petplaats)
 - ChatApp | Testing sockets/Firebase: [LINK](https://github.com/arsalanamanat/HackYourChatApp)
 
 ### PROJECT 2: A try-out application
-During the curriculum you will hear about different libraries or technologies that we have left out of the scope. A proactive developer will want to try these things out and think of an application where they can do that. That means that you have a simple application as a playground to try out this technology.
+During the curriculum you will hear about different libraries or technologies that we have left out of the scope. A proactive developer will want to try these things out and think of an application where they can do that. We will give some suggestions for you during the curriculum but if you encounter something else then feel free to check with us if it would be a good technology to look into.
+
+A try-out application does not need to be too functional and you should try to strip away as much as possible to really isolate the new topic you want to learn. For example if you are looking into GraphQL as an alternative to communicating via a REST API, then keep the app simple. A lot of developers use the good old Todo list as an example because it is simple, but it does require implementing all of the usual CRUD things. Or if you are working on a new way of writing CSS (looking into frameworks or SASS for example) then don't add any JavaScript. Also don't try to design something yourself, make the project a copy of a good looking website so that you can focus on the tech!
+
+If you ever want to extend a try-out application but don't know where to go or you feel that the tech is not really adding something in your eyes then you may be using it for the wrong use case. If that happens then please send a message in the #projects Slack channel with your project, a mentor there will be happy to help you get a better idea on where to go.
 
 #### EXAMPLES:
 - Music Box | Music Visualizer: [LINK](https://github.com/George-Saad/Music-Box)
