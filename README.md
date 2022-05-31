@@ -34,42 +34,46 @@ But you might think...building more projects next to the program? Who has time f
 
 Working on projects next to your study will help you to better understand concepts, improve your CV and portfolio (to get you hired faster) and most importantly will get you in a position in which being proactive is the only way forward: If you challenge yourself with projects, you will have to come up with ideas, seek for feedback, implement that feedback, and more. 
 
-Companies expect entry level job seekers to not only write clean code and communicate well but also to have some experience and a portfolio of projects. For this reason is that from now on, every student will have to show a minimum of 2 great projects they’ve been working on next to their studies in order to graduate from our program.
+Companies expect entry level job seekers to not only write clean code and communicate well but also to already have some experience and a portfolio of projects. We will be building some projects during the curriculum, but having extra-curricular projects will help speed up the process to finding a job. A student that has extra projects in their portfolio before the end of the curriculum may be considered for an earlier graduation which will lead to getting into a job sooner.
 
 ## 3. Working on projects
 
 ### 3.1 Project Guidelines and examples
-As mentioned before, every HackYourFuture student will have to show a minimum of 2 great projects they’ve been working on next to their studies in order to graduate. These projects should reflect your skills at the end of the program, and include enough features and refinement to show the HYF team and future employers what you can build by yourself.
+The projects in your github should reflect your skills at the end of the program, and include enough features and refinement to show the HYF team and future employers what you can build by yourself. Below we will give some ideas on what you can build.
 
 ### PROJECT 1: A full stack application
 This would be a project to which you can keep adding to as you learn new things in the curriculum. Starting with a vanilla JS frontend with fake data, then building a backend without a database in Node, then adding a database in Databases and finally converting the frontend to a React frontend. It is tempting to wait until you know everything before starting this project but we think it is a good idea to have a running project that you can keep adding to. That way you not only have a nice and practical way of using the concepts you learn throughout the curriculum but you also get a feeling on how a project evolves over time. In the end you will rewrite a lot of the code but that is totally fine, ask any developer and they will say that they write at least 5x as many lines of code than get put into their final Pull Request.
 
 #### EXAMPLES:
+Here are some examples that our students have built:
+
 - PetPlaats | MERN application: [LINK](https://github.com/nizamimursudlu/petplaats)
 - ChatApp | Testing sockets/Firebase: [LINK](https://github.com/arsalanamanat/HackYourChatApp)
 
 ### PROJECT 2: A try-out application
 During the curriculum you will hear about different libraries or technologies that we have left out of the scope. A proactive developer will want to try these things out and think of an application where they can do that. We will give some suggestions for you during the curriculum but if you encounter something else then feel free to check with us if it would be a good technology to look into.
 
-A try-out application does not need to be too functional and you should try to strip away as much as possible to really isolate the new topic you want to learn. For example if you are looking into GraphQL as an alternative to communicating via a REST API, then keep the app simple. A lot of developers use the good old Todo list as an example because it is simple, but it does require implementing all of the usual CRUD things. Or if you are working on a new way of writing CSS (looking into frameworks or SASS for example) then don't add any JavaScript. Also don't try to design something yourself, make the project a copy of a good looking website so that you can focus on the tech!
+A try-out application does not need to be too functional and you should try to strip away as much as possible to really isolate the new topic you want to learn. For example if you are looking into GraphQL as an alternative to communicating via a REST API, then keep the app simple. A lot of developers use the good old Todo list as an example because it is simple, but it does require implementing all of the usual CRUD things. Or if you are working on a new way of writing CSS (looking into frameworks or SASS for example) then don't add any JavaScript. Also don't try to design something yourself, make the project a copy of a good looking website so that you can focus on the tech rather than spending time on design!
 
-If you ever want to extend a try-out application but don't know where to go or you feel that the tech is not really adding something in your eyes then you may be using it for the wrong use case. If that happens then please send a message in the #projects Slack channel with your project, a mentor there will be happy to help you get a better idea on where to go.
+If you ever want to extend a try-out application but don't know where to go or you feel that the tech is not really adding something in your eyes then you may be using it for the wrong use case. If that happens then please send a message in the #get-help Slack channel with your project, a mentor there will be happy to help you get a better idea on where to go.
 
 #### EXAMPLES:
+Here are some examples that our students have built where they experimented with something new:
+
 - Music Box | Music Visualizer: [LINK](https://github.com/George-Saad/Music-Box)
 - Joke teller | Experimenting with the speech API: [LINK](https://dee-glitch.github.io/jokester/index.html)
 
 ### 3.2 When am I supposed to work on these projects?
-We suggest you start thinking on these projects as soon as possible, but wait until the start of the Browsers module to start coding. You will have between 5-6 months to work on them, so we expect some great looking applications! Look at the curriculum planning for reference:
+A full stack application can be started after the Browsers module. In that module you will be building a simple application that will show you one way of structuring your code. That will help you think of how to start building an application. This will give you between 5-6 months to work on them, so we expect some great looking applications! Look at the curriculum planning for reference:
 
 ![Curriculum](img/curriculum.jpeg)
 
 ### 3.3 Getting feedback from mentors:
-You can join a special Slack Channel named #projects where several mentors will be available to help you whenever you need some assistance in planning, building and improving your projects. You will have to be proactive in finding help from a mentor in this channel by sending a message. This will be 100% your responsibility. Remember to make sure that your question is complete and gives an idea of what you need! For example, a question like:
+You can join a special Slack Channel named #get-help where other students and several mentors will be available to help you whenever you need some assistance in planning, building and improving your projects. You will have to be proactive in finding help from others in this channel by sending a message. This will be 100% your responsibility. Remember to make sure that your question is complete and gives an idea of what you need! For example, a question like:
 
 > My app is broken, what should I do?
 
-will not get much of a response as it is very unclear what needs to happen. But if you add information for the mentor that allows them to have a quick look, they will be much more interested to help:
+will not get much of a response as it is very unclear what needs to happen. But if you add information for the others that allows them to have a quick look, they will be much more interested to help:
 
 > I was adding a React frontend to my app and whenever I run the app I get the following error:
 ```
@@ -81,10 +85,10 @@ build.js:196 Uncaught TypeError: React.render is not a function
 ```
 > Here is the repo with the error: https://link.to/repo
 
-Additionally, you will be able to join Rob’s tech hour. A 1-2 hour weekly session where Rob will answer your questions and brainstorm together with you about your projects.
+Additionally, you will be able to join `tech hours` held by mentors and the HYF team to get help with your projects as well.
 
 ### 3.4 The final graduation interview:
-The HYF team will do a final revision of your apps at the time of the graduation interview. We might ask you questions about what you’ve built and what you’ve learnt. For this, be sure your projects are deployed and added to your CV before the graduation interview. Failing to do this will be an impediment to graduate you and therefore, the program will be extended for you.
+The HYF team will do a final revision of all of your apps at the time of the graduation interview. We might ask you questions about what you’ve built and what you’ve learnt. For this, be sure your projects are deployed and added to your CV before the graduation interview.
 
 ### 3.5 Evaluating your projects:
 Some of the things we will look at in order to see how proactive you were in building these projects throughout the program are:
@@ -101,10 +105,10 @@ Some of the things we will look at in order to see how proactive you were in bui
 Anything you want as long as one is a full stack web application and the other one, a try out application as mentioned above. Think of this as an opportunity to build something that you always wanted to have or to try out some technology that you wanted to learn. The project does not have to be groundbreaking, you don’t have to create the next Facebook. Just make sure it is something doable and that it looks good both on the outside as well as the code.
 
 #### - I worked on projects during the modules - Do these count? 
-No they do not. The guided projects in the curriculum (HackYourWeather, HackYourRepo, etc) or the Browsers, Using API’s and React final projects do not count. This is about building something new for you to challenge yourself and apply the concepts you learn in a real world scenario.
+No they do not. The guided projects in the curriculum (HackYourWeather, HackYourRepo, etc) or the Browsers, Using API’s and React final projects do not count. This is about building something specific for you to challenge yourself and apply the concepts you learn in a real world scenario.
 
 #### - Can I follow a tutorial for a project?
-No. A tutorial/code along on your CV does not fall in line with the Proactive developer. The project should be built from scratch. Also, when following a video tutorial or code-along, you might overestimate your skills. The real learnings come when struggling building things by yourself and for that reason, following tutorials is not allowed.
+Preferably not. When following a video tutorial or code-along, you might overestimate your skills as everything is easy when someone has done the problem solving for you. You can use a video tutorial as a starting point, but make sure that you add your own twist to it. Also have a look at the [following article](https://www.freecodecamp.org/news/how-to-learn-from-coding-tutorials-and-avoid-tutorial-hell/) about how to actually learn from these. The real learnings come when struggling building things by yourself and for that reason, following tutorials is discouraged.
 
 #### - Where can I get ideas for projects?
 - What do you know more about, or think more about, or do more of than your colleagues? Topics, apps, types of websites, tools... is there an interest you share or would enjoy to discuss with your classmates? They can help you _build_ on your interest, literally!
@@ -120,14 +124,4 @@ Once you have a topic, use a similar process to list functionality that you coul
 Set early deadlines, so you can stop talking and continue coding. Mock interviews usually take place a few weeks after you start your personal projects. Can you give the interviewers the elevator pitch or show them one of the functionalities? Then you get to practice showing off how you put learning into action, and how you solve problems.
 
 #### - How can I get support if I'm stuck on my project?
-On Slack you can find a channel named #projects. In this channel, we have several mentors who are able to help you out. Keep in mind that mentors have other jobs and are usually busy, so give enough time to get the feedback/input you need. Additionally, every week you can join Rob’s Tech Hour.
-
-#### - When am I supposed to work on these projects?
-We suggest you start thinking on these projects as soon as possible, but wait until the end of the Browsers module to start coding. You will have between 5-6 months to work on them, so we expect some great looking applications!
-
-#### - When will these projects be evaluated?
-The HYF team will look at your projects right before your graduation interview, and will discuss them with you by then.
-
-#### - What happens if I go to the graduation interview without the 2 projects expected from this repo?
-In order to graduate and get introduced to companies you will have to present these projects and get a pass grade for them. Otherwise, you will not graduate.
-
+On Slack you can find a channel named #get-help. In this channel, we have several mentors as well as other students who are able to help you out. Keep in mind that mentors have other jobs and are usually busy, so give enough time to get the feedback/input you need. Additionally, every week you can join different `tech hours`.
