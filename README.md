@@ -101,6 +101,9 @@ Some of the things we will look at in order to see how proactive you were in bui
 
 ## 4. Frequently asked questions:
 
+#### - Can I work in a group?
+Working in groups is totally fine, you can learn a lot from each other. Do make sure though that before you start interviewing everyone in the group has a copy of the code in their own GitHub as that is what recruiters will be looking at. You may be asked questions about these projects, so ensure that you understand all of the code.
+
 #### - What should those 2 projects be about?
 Anything you want as long as one is a full stack web application and the other one, a try out application as mentioned above. Think of this as an opportunity to build something that you always wanted to have or to try out some technology that you wanted to learn. The project does not have to be groundbreaking, you don’t have to create the next Facebook. Just make sure it is something doable and that it looks good both on the outside as well as the code.
 
